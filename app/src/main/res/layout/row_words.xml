@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/backgroundColor"
+    android:paddingBottom="@dimen/_5sdp"
+    app:cardCornerRadius="@dimen/_10sdp">
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cardViews"
+        android:layout_width="match_parent"
+
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="@dimen/_10sdp"
+        app:cardCornerRadius="@dimen/_5sdp"
+        app:cardBackgroundColor="@color/blue"
+        app:cardElevation="@dimen/_5sdp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:padding="@dimen/_5sdp"
+            android:layout_height="match_parent">
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:cardBackgroundColor="@color/red_primary"
+                app:cardCornerRadius="@dimen/_15ssp"
+                app:layout_constraintEnd_toEndOf="parent"
+                tools:layout_editor_absoluteY="6dp">
+
+                <ImageView
+                    android:id="@+id/imgSpeaker"
+                    android:layout_width="@dimen/_30sdp"
+                    android:layout_height="@dimen/_30sdp"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:srcCompat="@drawable/ic_speaker_svgrepo_com__3_"
+                    app:tint="@color/white" />
+            </androidx.cardview.widget.CardView>
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/imgWord"
+                android:layout_width="@dimen/_100sdp"
+                android:layout_height="@dimen/_100sdp"
+                android:scaleType="centerCrop"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:id="@+id/tvWord"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="serif"
+                android:layout_marginTop="@dimen/_5sdp"
+                android:text="I hope you and your wife have a nice trip."
+                android:textColor="@color/white"
+                android:textSize="@dimen/_12ssp"
+                android:textStyle="bold"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="@+id/imgWord"
+                app:layout_constraintStart_toStartOf="@+id/imgWord"
+                app:layout_constraintTop_toBottomOf="@+id/imgWord" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </androidx.cardview.widget.CardView>
+</androidx.constraintlayout.widget.ConstraintLayout>

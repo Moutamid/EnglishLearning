@@ -1,0 +1,331 @@
+How have you been?
+What’s up?
+Greeting
+Welcome
+Good to see you
+Good evening
+Good morning
+How are you feeling today?
+Bonjour
+Howdy?
+How are things?
+What have you been up to?
+Look what the cat dragged in!
+It is nice to meet you
+What’s going on?
+Good afternoon.
+Stay safe
+Be careful.
+Be careful driving.
+Can you translate this for me?
+Chicago is very different from Boston.
+Don't worry.
+Everyone knows it.
+Everything is ready.
+Excellent.
+From time to time.
+Good idea.
+He likes it very much.
+Help!
+He's coming soon.
+He's right.
+He's very annoying.
+He's very famous.
+How are you?
+How's work going?
+Hurry!
+I ate already.
+I can't hear you.
+I'd like to go for a walk.
+I don't know how to use it.
+I don't like him.
+I don't like it.
+I don't speak very well.
+I don't understand.
+I don't want it.
+I don't want that.
+I don't want to bother you.
+I feel good.
+If you need my help, please let me know.
+I get off of work at 6.
+I have a headache.
+I hope you and your wife have a nice trip.
+I know.
+I like her.
+I'll call you when I leave.
+I'll come back later.
+I'll pay.
+I'll take it.
+I'll take you to the bus stop.
+I lost my watch.
+I love you.
+I'm an American.
+I'm cleaning my room.
+I'm cold.
+I'm coming to pick you up.
+I'm going to leave.
+I'm good, and you?
+I'm happy.
+I'm hungry.
+I'm married.
+I'm not busy.
+I'm not married.
+I'm not ready yet.
+I'm not sure.
+I'm sorry, we're sold out.
+I'm thirsty.
+I'm very busy. I don't have time now.
+I need to change clothes.
+I need to go home.
+I only want a snack.
+Is Mr. Smith an American?
+Is that enough?
+I think it's very good.
+I think it tastes good.
+I thought the clothes were cheaper.
+It's longer than 2 miles.
+I've been here for two days.
+I've heard Texas is a beautiful place.
+I've never seen that before.
+I was about to leave the restaurant when my friends arrived.
+Just a little.
+Just a moment.
+Let me check.
+Let me think about it.
+Let's go have a look.
+Let's practice English.
+May I speak to Mrs. Smith please?
+More than that.
+Never mind.
+Next time.
+No.
+Nonsense.
+No, thank you.
+Nothing else.
+Not recently.
+Not yet.
+Of course.
+Okay.
+Please fill out this form.
+Please take me to this address.
+Please write it down.
+Really?
+Right here.
+Right there.
+See you later.
+See you tomorrow.
+See you tonight.
+She's pretty.
+Sorry to bother you.
+Stop!
+Take a chance.
+Take it outside.
+Tell me.
+Thanks for everything.
+Thanks for your help.
+Thank you.
+Thank you miss.
+Thank you sir.
+Thank you very much.
+That looks great.
+That's alright.
+That's enough.
+That's fine.
+That's it.
+That smells bad.
+That's not fair.
+That's not right.
+That's right.
+That's too bad.
+That's too many.
+That's too much.
+The book is under the table.
+They'll be right back.
+They're the same.
+They're very busy.
+This doesn't work.
+This is very difficult.
+This is very important.
+Try it.
+Very good, thanks.
+We like it very much.
+Would you take a message please?
+Yes, really.
+You're beautiful.
+Where are you from?
+What’s up
+What are you up to these days
+We will be having a good time.
+The scorching sun
+That’s a good one
+That is dirt cheap
+Thank you so much
+Long time no see
+It cost me a fortune
+I’m very busy. I don’t have time now.
+I’m thirsty.
+I’m sorry, we’re sold out.
+I’m not sure.
+I’m not ready yet.
+I’m not married.
+I’m not busy.
+I’m married.
+I’m hungry.
+I’m happy.
+I’m good, and you?
+I’m going to leave.
+I’m coming to pick you up.
+I’m cold.
+I’m cleaning my room.
+I’m an American.
+I’ll take you to the bus stop.
+I’ll take it.
+I’ll pay.
+I’ll come back later.
+I’ll call you when I leave.
+If you need my help, please let me know.
+I’d like to go for a walk.
+I love you.
+I lost my watch.
+I like her.
+I know.
+I hope you and your wife have a nice trip.
+I have a headache.
+I get off of work at 6.
+I feel good.
+I don’t want to bother you.
+I don’t want that.
+I don’t want it.
+I don’t understand.
+I don’t speak very well.
+I don’t like it.
+I don’t like him.
+I don’t know how to use it.
+I can’t hear you.
+I ate already.
+I couldn’t agree more.
+I can’t complain
+I am starving
+I am dog tired
+Hurry!
+How’s work going?
+How are you?
+How are you doing today?
+He’s very famous.
+He’s very annoying.
+He’s right.
+He’s coming soon.
+Help!
+He likes it very much.
+Good idea.
+From time to time.
+Everything is ready.
+Everyone knows it.
+Don’t worry.
+Don’t take it personally
+Chicago is very different from Boston.
+Can you translate this for me?
+Break a leg
+Beats me!
+Be careful driving.
+You're very nice.
+You're very smart.
+Your things are all here.
+How do I get to library?
+Where is the nearest post office?
+Can you tell me the way to the Big Hotel?
+Are we on the right road for London?
+Can you Show me on the map, please?
+I’m looking for this address.
+How do I find…?
+Excuse me, How can I go to …?
+Dou you have a map?
+Are you from around here?
+Where is …?
+Which the best way to …?
+Pardon me, I’m lost, how do I get to …?
+I’m looking for …
+Could you direct me to …?
+May I ask for some help? I need to get to …?
+How can we get to High Park?
+Is it far?
+Excuse me, could you tell me how to get to the bus station?
+Go up…
+It’s on the corner
+Go straight ahead
+Cross…
+Go along…
+Turn left
+Turn right
+Turn left into … Street
+It’s in the middle of the block
+You will pass a süpermarket on your left
+Take this road
+Turn right at the crossroads
+It’s on your left
+It’s on your right
+It’s about 100 meters from here
+Take the first road on the right
+Take the second road on the left
+It’s next to…
+My body says yes, but my heart say no.
+Nope
+Maybe another time.
+I am not accepting anything else at this time.
+We appreciate the offer, but …
+I’m not really into it, but thanks for asking!
+I’d rather not, thanks.
+Nah
+That’s not going to work for me.
+Sounds fun, but I’m not available.
+I want to, but I’m unable to.
+I just don’t have that to give right now.
+I’m not able to commit to that right now.
+It is not a good idea for me.
+Apologies, but I can’t make it.
+Do you have a reservation?
+Do you need help with your bags?
+Is there anything else we can help you with?
+How many guests are with you?
+Your room is on the second floor.
+Thank you for staying with us!
+I’d like to book a room, please.
+We really enjoyed our stay.
+The room is too noisy.
+Can I see the room, please?
+Please sign your name here.
+More fresh towels are available at the front desk.
+I’d like a single room, please.
+Can someone help me with my bags?
+When I can check-in?
+Do you need a wake-up call?
+Can you help me, please?
+Can I go out?
+Can I answer the question?
+Can I switch off the lights?
+Teacher, please can you repeat again?
+Can I open the window?
+Can we pack our things now?
+What page are we on?
+I am ready. May I start it?
+What is the homework?
+Do we have to write this down?
+Sorry, for being late.
+May I open / close the window?
+Can I go to the board?
+Can I come in?
+Can I pull up the blinds?
+Can I pulldown the blinds?
+May I join the class/group?
+Can you explain it once more, please?
+May I go out please?
+Is this right?
+Is this correct?
+I am sorry. I did not hear.
+Can you speak louder, please?
+Which book?
+Can you explain that again?
+Whe is the exam?
+When is the homework for?
+I have done this.
+Can I go to the toilet?

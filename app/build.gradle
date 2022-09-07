@@ -9,8 +9,8 @@ android {
         applicationId "app.com.englishlearning"
         minSdk 21
         targetSdk 32
-        versionCode 1
-        versionName "1.0"
+        versionCode 2
+        versionName "1.1"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
@@ -58,5 +58,12 @@ dependencies {
     annotationProcessor 'com.github.bumptech.glide:compiler:4.11.0'
 
     implementation 'pl.droidsonroids.gif:android-gif-drawable:1.2.25'
+
+    def billing_version = "3.0.0"
+    implementation "com.android.billingclient:billing:$billing_version"
+
+    implementation 'androidx.preference:preference:1.1.1'
+
+    implementation 'com.anjlab.android.iab.v3:library:2.0.0'
 
 }

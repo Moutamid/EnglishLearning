@@ -1,10 +1,13 @@
 package app.com.englishlearning.utilities;
 
 
-
-import java.util.ArrayList;
-
 public class Constants {
+
+    public static final String LICENSE_KEY = "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0QR5DlxuxTg8uxnhWaLKJf3evX7fo4FfINxED6iIfwCYpKq9YDsms/4xvmuaQBXX3ZEfvuHR2x5I7K4OkE3CpZwOctZVBIbfW7uGmeKG+UZB8HIJ1rL6i/Diju1N0z1f5FX26UWr57s+8yYrmeDYwPVclh1QW4cN0xDUHABA1z8niXACW+lvW6RorkuOPny4nQUOEPD64Q17pEILpiVCBOyRTefU/bQVwL7eW9fPijArRyayZnwN2zAGEalSuL/skrRvxS4Z1CHnSYGu5IhtdNCyUiE2CzgJVwuNyTJfjqYIhqjTqqCPyGN0/sOsp6p/tIvNqF4aUt6NP62GY9mVXQIDAQAB";
+    public static final String SIX_MONTHS_SUBSCRIPTION = "six.months.app.com.englishlearning";
+    public static final String MONTHLY_SUBSCRIPTION = "monthly.app.com.englishlearning";
+    public static final String WEEKLY_SUBSCRIPTION = "weekly.app.com.englishlearning";
+
     public static final String USER_NAME = "username";
     public static final String USER_GENDER = "userGender";
     public static final String IS_LOGGED_IN = "isLoggedIn";

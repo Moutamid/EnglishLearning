@@ -264,7 +264,7 @@
             android:layout_marginHorizontal="@dimen/_20sdp"
             android:layout_marginTop="10dp"
             android:background="@drawable/roundbutton"
-            android:text="Monthly 29$"
+            android:text="Monthly 12$"
             app:backgroundTint="@null"
             app:layout_constraintStart_toStartOf="@+id/btnBasic"
             app:layout_constraintTop_toBottomOf="@+id/btnBasic" />

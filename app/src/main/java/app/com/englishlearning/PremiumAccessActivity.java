@@ -14,6 +14,7 @@ import com.anjlab.android.iab.v3.BillingProcessor;
 import com.anjlab.android.iab.v3.PurchaseInfo;
 
 import app.com.englishlearning.utilities.Constants;
+import app.com.englishlearning.utilities.Utils;
 
 public class PremiumAccessActivity extends AppCompatActivity implements BillingProcessor.IBillingHandler {
     BillingProcessor bp;
@@ -44,6 +45,7 @@ public class PremiumAccessActivity extends AppCompatActivity implements BillingP
     @Override
     public void onProductPurchased(@NonNull String productId, @Nullable PurchaseInfo details) {
         Toast.makeText(PremiumAccessActivity.this, "Purchase successful", Toast.LENGTH_SHORT).show();
+        Utils.store("isSubscribed", true);
 //        TextView textView = findViewById(R.id.purchasedTextView);
 
         /*if (productId.equals(Constants.SIX_MONTHS_SUBSCRIPTION))

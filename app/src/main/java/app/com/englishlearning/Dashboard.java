@@ -14,6 +14,8 @@ import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
+import app.com.englishlearning.utilities.Utils;
+
 
 public class Dashboard extends AppCompatActivity {
     private final SimpleDateFormat formatter = new SimpleDateFormat("yyyy-MM-dd");
@@ -39,6 +41,11 @@ public class Dashboard extends AppCompatActivity {
         if (days > 3) { // More than 3 days?
             state = true;
         }
+
+        if (Utils.getBoolean("isSubscribed", false)) {
+            state = false;
+        }
+
         check();
         textView.setText("Welcome " + sharedPreferences.getString("name", "ali"));
         findViewById(R.id.cardWords).setOnClickListener(new View.OnClickListener() {
@@ -65,10 +72,9 @@ public class Dashboard extends AppCompatActivity {
         findViewById(R.id.cardPremium).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                if(state){
+                if (state) {
                     Toast.makeText(Dashboard.this, "Please subscribe to premium to access all the features", Toast.LENGTH_SHORT).show();
-                }
-                else {
+                } else {
                     startActivity(new Intent(Dashboard.this, SpeakingLessonsActivity.class));
                 }
             }
@@ -77,7 +83,7 @@ public class Dashboard extends AppCompatActivity {
             @Override
             public void onClick(View view) {
 
-                    startActivity(new Intent(Dashboard.this, PremiumAccessActivity.class));
+                startActivity(new Intent(Dashboard.this, PremiumAccessActivity.class));
 
             }
         });
